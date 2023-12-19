@@ -1,5 +1,5 @@
                                       /*********************************************************
-                                       ***  Project Name : CS 200 Programming Assignment 1   ***
+                                       ***  Project Name : CNN Simulator                     ***
                                        ***  Author       : Seerat Sandha                     ***
                                        ***  Date         : 09/24/2023                        ***
                                        *********************************************************/
